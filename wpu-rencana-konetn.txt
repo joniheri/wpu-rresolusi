@@ -3,8 +3,9 @@ RENCANA KONEN WPU
   * ES6
   * Framework Javascript
     > Angular
-    > React
     > Vue
+  * Library Javascript
+    > React
 - MEMBUAT VIDEO TENTANG REACT NATIV
 - STRUKTUR DATA DASAR
 - PHP Framework
