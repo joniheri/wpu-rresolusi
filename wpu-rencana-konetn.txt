@@ -4,7 +4,9 @@ RENCANA KONEN WPU
   * Framework Javascript
     > Angular
     > React
+    > Vue
 - MEMBUAT VIDEO TENTANG REACT NATIV
+- STRUKTUR DATA DASAR
 - PHP Framework
   * CodeIgniter
   * Laravel
