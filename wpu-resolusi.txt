@@ -1,5 +1,4 @@
 WPU Resolusi
-- Saya ingin gabung belajar di Bootcamp dumways
 - Saya ingin konsisten belajar pemrograman React.js agar bisa masuk bootcamp duways
 - Walaupun tidak lulus dumways, saya ingin bisa membuat aplikasi sendiri
 - Saya ingin mengembangkan yt saya
