@@ -2,5 +2,9 @@ RENCANA KONEN WPU
 - MEMBUAT VIDEO TENTANG REACT.JS
   * ES6
   * Framework Javascript
+    > Vue
+    > React 
 - MEMBUAT VIDEO TENTANG REACT NATIV
 - STRUKTUR DATA DASAR
+- PHP Framework
+  * Laravel
